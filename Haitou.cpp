@@ -7,6 +7,7 @@
 #include "Ball2.h"
 #include "Ball3.h"
 //#include <iostream>
+//‚È‚ñ‚Å“®‚©‚ñ‚Ì‚âI(S‚Ì‹©‚Ñ)
 
 Haitou::Haitou()
 {
